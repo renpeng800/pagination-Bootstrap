@@ -1,4 +1,4 @@
-# pagination-Bootstrap-
+# pagination-Bootstrap
 
 
 v 1.0
